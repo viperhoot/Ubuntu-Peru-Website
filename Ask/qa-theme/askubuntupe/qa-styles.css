@@ -37,7 +37,7 @@
 
 body {margin:0; padding:0; text-align:center; background-image:url(bg-site.png);}
 /*body,td,input,textarea {font-size:12px; font-family:Verdana, Arial, Helvetica, sans-serif;}*/
-body,td,input,textarea {font-size:12px; font-family:"Ubuntu Beta",UbuntuBeta,Ubuntu,"Bitstream Vera Sans","DejaVu Sans",Tahoma,sans-serif;}
+body,td,input,textarea {font-size:12px; font-family:"Ubuntu","Bitstream Vera Sans","DejaVu Sans",Tahoma,sans-serif;}
 a:link,a:active,a:visited {text-decoration:none;}
 a:hover {text-decoration:underline;}
 p {margin-top:0;}
@@ -110,7 +110,7 @@ padding-top: 5px;
 /* Header sections */
 
 .qa-logo {float:left; margin-top:8px; margin-bottom:8px; font-size:40px; font-weight:bold; color:#293d39;}
-.qa-logo-link, .qa-logo-link:hover {color:#DD4814; text-decoration: none; background-image: url('/qa-theme/Rubuntu/logo.png'); background-repeat: no-repeat; padding-left:52px; font-weight: normal;}
+.qa-logo-link, .qa-logo-link:hover {color:#DD4814; text-decoration: none; background-image: url('/qa-theme/askubuntupe/askubuntu-pe-logo.png'); background-repeat: no-repeat; padding-left:52px; font-weight: normal;}
 
 .qa-nav-user {float:right; font-size:14px; color:#DD4814; white-space:nowrap;}
 .qa-nav-user-list {list-style:none; padding:0; margin:0; display:inline;}
